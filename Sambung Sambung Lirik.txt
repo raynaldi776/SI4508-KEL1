@@ -1,10 +1,16 @@
 Sambung Sambung Lirik
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Slow down you crazy child
 You're so ambitious for a juvenile
 But then if you're so smart tell me
 Why are you still so afraid?
+=======
+
+Say Lalisa love me Lalisa love me
+Call me Lalisa love me Lalisa love me
+>>>>>>> f5543a72971c70c8656cfddaefce3ee9f56ba6b9
 =======
 Quiero respirar tu cuello despacito
 >>>>>>> 107d722fda9c63971e63899f4a5a859f580245bd
