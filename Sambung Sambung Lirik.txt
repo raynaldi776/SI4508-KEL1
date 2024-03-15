@@ -1,6 +1,10 @@
 Sambung Sambung Lirik
 
+<<<<<<< HEAD
 Slow down you crazy child
 You're so ambitious for a juvenile
 But then if you're so smart tell me
 Why are you still so afraid?
+=======
+Quiero respirar tu cuello despacito
+>>>>>>> 107d722fda9c63971e63899f4a5a859f580245bd
