@@ -1,3 +1,15 @@
+Reyhan Faqih Ashuri
+Aksanardian Alberami
+<<<<<<< HEAD
+Ni Made Sarasamhita Kirana Sadu
+=======
+<<<<<<< HEAD
+Meisya Robiatul Adawiyah
+=======
+Muhammad Akbar Dwi Putra
+>>>>>>> 2bd5f5b384322ac4d5ac27a91ed4e513e08ca583
+>>>>>>> a128bd28c26612b0b513b8cf09a226d130d3565a
+
 Ya, ya-ya-ya-ya
 Ya-ya-ya-ya
 Ya-ya-ya-ya
