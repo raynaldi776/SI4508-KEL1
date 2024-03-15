@@ -1,6 +1,10 @@
 Sambung Sambung Lirik
 
+<<<<<<< HEAD
 Faqih berjalan-jalan dengan delman
 Membayar delman dengan uang paman
 Mengelilingi kota dan taman
 Lalu berjumpa dengan teman teman
+=======
+Quiero respirar tu cuello despacito
+>>>>>>> 107d722fda9c63971e63899f4a5a859f580245bd
