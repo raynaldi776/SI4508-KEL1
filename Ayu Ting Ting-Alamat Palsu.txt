@@ -1,6 +1,10 @@
 Reyhan Faqih Ashuri
 Aksanardian Alberami
+<<<<<<< HEAD
 Meisya Robiatul Adawiyah
+=======
+Muhammad Akbar Dwi Putra
+>>>>>>> 2bd5f5b384322ac4d5ac27a91ed4e513e08ca583
 
 Ya, ya-ya-ya-ya
 Ya-ya-ya-ya
