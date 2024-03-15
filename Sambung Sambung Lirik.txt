@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 Reyhan Faqih Ashuri
 
 Sambung Sambung Lirik
 
 Ramadhan... Ramadhan.. Ramadhan ya Karim
+=======
+Sambung Sambung Lirik
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+Faqih berjalan-jalan dengan delman
+Membayar delman dengan uang paman
+Mengelilingi kota dan taman
+Lalu berjumpa dengan teman teman
+=======
+
+Say Lalisa love me Lalisa love me
+Call me Lalisa love me Lalisa love me
+>>>>>>> f5543a72971c70c8656cfddaefce3ee9f56ba6b9
+=======
+Quiero respirar tu cuello despacito
+>>>>>>> 107d722fda9c63971e63899f4a5a859f580245bd
+>>>>>>> 37091bb880687cbc616ef4d62e7f468af94edfe4
